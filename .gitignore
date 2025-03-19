@@ -54,3 +54,4 @@ windows/
 .vscode
 .metadata
 analysis_options.yaml
+test/
